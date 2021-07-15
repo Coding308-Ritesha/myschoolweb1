@@ -1,0 +1,26 @@
+
+.announcement{
+    background-color: paleturquoise;
+    color: darkblue;
+    font-size: 16px;
+    width: 100%;
+}
+#video{
+    text-align: center;
+}
+.contactus_a{
+    text-shadow: none;
+}
+
+
+iframe {
+    width: 100%;
+}
+
+h3 {
+    display: inline;
+}
+
+.contact_1 {
+    text-align: left;
+}
